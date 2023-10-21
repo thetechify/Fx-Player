@@ -4,8 +4,8 @@
     "applicationId": "saxplayer.mediaplayer.videoplayer",
     "minSdkVersion": 14,
     "targetSdkVersion": 29,
-    "versionCode": 16,
-    "versionName": "3.0",
+    "versionCode": 19,
+    "versionName": "5.0",
     "appLink": "https://omsoft.thetechify.com/release/maxplayer30.apk",
     "appPartLinks": [
       "https://omsoft.thetechify.com/release/maxplayer30.apk"

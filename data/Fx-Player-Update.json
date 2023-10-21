@@ -1,7 +1,7 @@
 {
  "appInfos": {
     "appName": "Fx-Player & Live TV",
-    "applicationId": "fxplayer.mediaplayer.allstatussaver.livetvchannels",
+    "applicationId": "saxplayer.mediaplayer.videoplayer",
     "minSdkVersion": 14,
     "targetSdkVersion": 29,
     "versionCode": 16,
@@ -16,7 +16,7 @@
       "1. Bug Fixed",
       "2. Whatsapp saver"
     ],
-    "promptDialogAnchorActivityClsName": "fxplayer.mediaplayer.allstatussaver.livetvchannels.view.activity.MainActivity"
+    "promptDialogAnchorActivityClsName": "saxplayer.mediaplayer.videoplayer.view.activity.MainActivity"
   },
   "author": "Vikash Gorayan"
 }
